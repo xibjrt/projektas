@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projektas/static/css/main.5f361e03.chunk.css",
+    "main.js": "/projektas/static/js/main.5457e8bd.chunk.js",
+    "main.js.map": "/projektas/static/js/main.5457e8bd.chunk.js.map",
+    "runtime-main.js": "/projektas/static/js/runtime-main.fd872c0a.js",
+    "runtime-main.js.map": "/projektas/static/js/runtime-main.fd872c0a.js.map",
+    "static/js/2.2c60708e.chunk.js": "/projektas/static/js/2.2c60708e.chunk.js",
+    "static/js/2.2c60708e.chunk.js.map": "/projektas/static/js/2.2c60708e.chunk.js.map",
+    "index.html": "/projektas/index.html",
+    "precache-manifest.12350792225a692bb056ad2cd6cb7f2e.js": "/projektas/precache-manifest.12350792225a692bb056ad2cd6cb7f2e.js",
+    "service-worker.js": "/projektas/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/projektas/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2c60708e.chunk.js.LICENSE.txt": "/projektas/static/js/2.2c60708e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/projektas/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd872c0a.js",
+    "static/js/2.2c60708e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5457e8bd.chunk.js"
+  ]
+}
